@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Lee 👋
 
-<!--
-**Lee-1-11/Lee-1-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Business Management student from South Africa who is passionate about data analytics. I love turning raw data into clear insights that help businesses make better decisions.
 
-Here are some ideas to get you started:
+I'm currently building my skills and portfolio in data analytics, working towards a career as a remote Data Analyst.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tools & Skills currently learning
+
+![SQL]
+![Power BI]
+![Excel]
+
+
+## 📊 Projects
+
+| Project | Description | Tools |
+
+ [HR Performance & Engagement Analysis](#) | Analysed HR data for 3,000 employees to identify turnover trends, engagement scores, and performance distribution across departments | SQL, Power BI |
+ [Student Performance Analysis](#) | Analysed student academic performance data to identify key factors affecting results | SQL, Power BI 
+---
+
+## 🌍 About Me
+
+- 📍 Based in South Africa, open to remote opportunities
+- 🎓 Studying Business Management
+- 📈 Transitioning into Data Analytics
+- 💡 Background in business gives me the ability to understand both the data AND the business problem behind it
+- ✍️ I enjoy communicating insights through clear reports and dashboards
+
+---
+
+## 📫 Get in Touch
+
+Feel free to explore my projects and reach out if you'd like to collaborate or discuss opportunities!
