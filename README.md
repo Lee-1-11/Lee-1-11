@@ -13,13 +13,7 @@ I'm currently building my skills and portfolio in data analytics, working toward
 ![Excel]
 
 
-## 📊 Projects
 
-| Project | Description | Tools |
-
- [HR Performance & Engagement Analysis](#) | Analysed HR data for 3,000 employees to identify turnover trends, engagement scores, and performance distribution across departments | SQL, Power BI |
- [Student Performance Analysis](#) | Analysed student academic performance data to identify key factors affecting results | SQL, Power BI 
----
 
 ## 🌍 About Me
 
