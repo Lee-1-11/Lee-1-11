@@ -8,7 +8,9 @@ I've been building my skills and portfolio in data analytics, working towards a 
 🛠️ Tools & Skills
 
 ![SQL]
+
 ![Power BI]
+
 ![Excel]
 
 
@@ -26,4 +28,5 @@ I've been building my skills and portfolio in data analytics, working towards a 
 
 
 📫 Get in Touch
+
 Feel free to explore my projects and reach out if you'd like to collaborate or discuss opportunities!
