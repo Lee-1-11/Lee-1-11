@@ -1,17 +1,17 @@
-Hi, I'm Lee 👋
+Hi, I am Lee 👋
 
-I'm a Business Management graduate from South Africa who is passionate about data analytics. I love turning raw data into clear insights that help businesses make better decisions.
+I am a Business Management graduate from South Africa who is passionate about data analytics. I love turning raw data into clear insights that help businesses make better decisions.
 
-I've been building my skills and portfolio in data analytics, working towards a career as a remote Data Analyst.
+I have been building my skills and portfolio in data analytics, working towards a career as a remote Data Analyst.
 
 
 🛠️ Tools & Skills
 
-![SQL]
+SQL
 
-![Power BI]
+Power BI
 
-![Excel]
+Excel
 
 
 🌍 About Me
