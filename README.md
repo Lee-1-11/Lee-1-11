@@ -15,9 +15,13 @@ I've been building my skills and portfolio in data analytics, working towards a 
 🌍 About Me
 
 📍 Based in South Africa, open to remote opportunities
+
 🎓 BCom Business Management graduate, UNISA
+
 📈 Moving into Data Analytics
+
 💡 Background in business gives me the ability to understand both the data AND the business problem behind it
+
 ✍️ I enjoy communicating insights through clear reports and dashboards
 
 
