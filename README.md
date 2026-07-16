@@ -6,7 +6,9 @@ I have been building my skills and portfolio in data analytics, working towards 
 ## 🛠️ Tools & Skills
 
 - SQL
+  
 - Power BI
+  
 - Excel
 ---
 ## 🌍 About Me
